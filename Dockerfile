@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:xenial
 MAINTAINER Feng Honglin <tifayuki@gmail.com>
 
 RUN apt-get update && \
